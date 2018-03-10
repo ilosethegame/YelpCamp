@@ -12,3 +12,6 @@
 .delete-form {
     display: inline-block;
 }
+#login {
+    border: 1px solid black;
+}
